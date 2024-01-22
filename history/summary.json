@@ -22,20 +22,18 @@
     "url": "https://api.nicsena.tk/",
     "icon": "https://icons.duckduckgo.com/ip3/api.nicsena.tk.ico",
     "slug": "api",
-    "status": "down",
-    "uptime": "42.80%",
-    "uptimeDay": "42.80%",
-    "uptimeWeek": "42.80%",
-    "uptimeMonth": "42.80%",
-    "uptimeYear": "42.80%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2024-01-22": 0
-    }
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 284,
+    "timeDay": 284,
+    "timeWeek": 284,
+    "timeMonth": 284,
+    "timeYear": 284,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Git",
@@ -61,18 +59,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.nicsena.tk.ico",
     "slug": "status",
     "status": "up",
-    "uptime": "2.27%",
-    "uptimeDay": "2.27%",
-    "uptimeWeek": "2.27%",
-    "uptimeMonth": "2.27%",
-    "uptimeYear": "2.27%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 109,
     "timeDay": 109,
     "timeWeek": 109,
     "timeMonth": 109,
     "timeYear": 109,
-    "dailyMinutesDown": {
-      "2024-01-22": 0
-    }
+    "dailyMinutesDown": {}
   }
 ]
