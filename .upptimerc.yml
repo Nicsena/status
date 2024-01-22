@@ -24,6 +24,13 @@ sites:
     expectedStatusCodes:
       - 200
 
+  - name: Status
+    url: https://status.nicsena.tk/
+    method: HEAD
+    maxResponseTime: 30000
+    expectedStatusCodes:
+      - 200
+
   # - name: Secret Site
   #   url: $SECRET_SITE
   #   method: HEAD
@@ -36,7 +43,6 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.nicsena.tk
-  baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Nicsena
   # introTitle: ""
