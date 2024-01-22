@@ -13,7 +13,7 @@ sites:
 
   - name: API
     url: https://api.nicsena.tk/
-    method: HEAD
+    method: GET
     maxResponseTime: 30000
     expectedStatusCodes:
       - 200
